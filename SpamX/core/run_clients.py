@@ -139,8 +139,8 @@ def Run_SpamX():
     print(f"SpamX - [INFO]: Pyrogram Version - {pyro_vr}")
     print(""" \n\n
      ╒═══════════════════════════╕
-      Your SpamX has been Deployed!!
-      Visit @RiZoeLX for updates!
+      Your KING X SPAM has been Deployed!!
+      Visit @l_MR_ll_KING_l for updates!
      ╘═══════════════════════════╛
     """)
     idle()
