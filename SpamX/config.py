@@ -1,4 +1,4 @@
-""" RiZoeLX 2022 © SpamX """
+""" KING X SPAM """
 import os
 import sys
 import re
