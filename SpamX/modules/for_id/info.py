@@ -1,6 +1,6 @@
 """
-    © RiZoeLX
-    SpamX
+  KING X SPAM
+  
 """
 
 from pyrogram import Client, filters
@@ -20,12 +20,12 @@ async def _info(SpamX: Client, e: Message):
       await e.reply_text(user_errors(eror))
       return 
    msg = "**User Info** \n\n"
-   msg += f"**First Name:** {user.first_name} \n"
+   msg += f"**Chodu ka First Name:** {user.first_name} \n"
    if user.last_name:
-     msg += f"**Last Name:** {user.last_name} \n"
-   msg += f"**User ID:** `{user.id}` \n"
+     msg += f"**chodu ka Last Name:** {user.last_name} \n"
+   msg += f"**Namune ki User ID:** `{user.id}` \n"
    if user.username:
-     msg += f"**Username:** @{user.username} \n"
+     msg += f"**Madarchod Username:** @{user.username} \n"
    msg += f"**Permit link** [link](tg://user?id={user.id}) \n"
    if int(user.id) in Devs:
      msg += "**Rank:** Dev of SpamX-"
