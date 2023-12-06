@@ -7,27 +7,9 @@
 
 ----
 
-<b> SpamX Is A Pyrogram Based Spam Bots For Telegram With Many Features </b>
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RiZoeLX&repo=SpamX&theme=lite)
-
-![Repo Size](https://img.shields.io/github/repo-size/RiZoeLX/SpamX?&style=social&logo=github)
-![Branch](https://img.shields.io/badge/Branch-main-white?&style=social&logo=github)
-![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/RiZoeLX/SpamX?&style=social&logo=hyper)
-
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/DNHxHELL)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/RiZoelX)
-
- - Requirements
-   - [![PyPI - pyrogram](https://img.shields.io/badge/pypi-pyrogram-informational)](https://pypi.org/project/pyrogram)  
-   - [![PyPI - pyRiZoeLX](https://img.shields.io/badge/pypi-pyRiZoeLX-informational)](https://pypi.org/project/pyRiZoeLX) 
 
   - Heroku: [Click Here](https://github.com/RiZoeLX/SpamX/blob/main/resources/heroku.md)
-  - Mogenius: [Click Here](https://youtu.be/6XIjTbumJYY)
-  - Google Colab: [Click Here](https://youtu.be/sYgy4_8i7c8)
-  - VPS/Local hosting: [Click here](https://github.com/RiZoeLX/SpamX/blob/main/resources/local.md)
-  - Termux: [Click Here](https://github.com/RiZoeLX/SpamX/blob/main/resources/termux.md) `Some errors!`
+  `Some errors!`
 
 ----
 
