@@ -13,5 +13,5 @@
 
 ----
 
-
-  - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in SpamX
+ཽ͡ ⃝𝆺𝅥𝐌ꝛ፝֟ [🖤]❛𝐊ɩŋʛ𝅃꯭᳚𝅃꯭᳚𓄂️𓆪ꪾ
+ 
