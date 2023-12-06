@@ -1,4 +1,4 @@
-""" RiZoeLX 2022-2023 © SpamX """
+""" KING X SPAM """
 
 import os, time, sys
 from sys import stdout
