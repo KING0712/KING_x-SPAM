@@ -8,7 +8,7 @@
 ----
 
 
-  - Heroku: [Click Here](https://github.com/RiZoeLX/SpamX/blob/main/resources/heroku.md)
+  - Heroku: [Click Here](https://github.com/KING0712/KING_x-SPAM/tree/main/resources/heroku.md)
   `Yaha Click Kar Bc`
 
 ----
