@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/9a6da16d52fdb628901a6.jpg" alt="RiZoeLXSpam Logo">
 </p>
 <h6 align="center">
-  <b>• SᴘᴀᴍX Bʏ RɪZᴏᴇLX •</b>
+  <b>• KING X SPAM •</b>
 </h6>
 
 ----
@@ -22,21 +22,6 @@
  - Requirements
    - [![PyPI - pyrogram](https://img.shields.io/badge/pypi-pyrogram-informational)](https://pypi.org/project/pyrogram)  
    - [![PyPI - pyRiZoeLX](https://img.shields.io/badge/pypi-pyRiZoeLX-informational)](https://pypi.org/project/pyRiZoeLX) 
-
-<b> Give a star ⭐</b>
-
-----
-<h4>Youtube Tutorials 📺</h4>
-
-- [![YouTube Video](https://img.shields.io/youtube/views/GW_ZNdRrFtg?label=Tutorial++Heroku++&style=social)](https://youtu.be/GW_ZNdRrFtg)
-- [![YouTube Video](https://img.shields.io/youtube/views/6XIjTbumJYY?label=Tutorial++Mogenius++&style=social)](https://youtu.be/6XIjTbumJYY)
-- [![YouTube Video](https://img.shields.io/youtube/views/sYgy4_8i7c8?label=Tutorial++Google++Colab++&style=social)](https://youtu.be/sYgy4_8i7c8)
-- [![YouTube Video](https://img.shields.io/youtube/views/yC9z3kYKIgU?label=Tutorial++VPS++&style=social)](https://youtu.be/yC9z3kYKIgU)
-- [![YouTube Video](https://img.shields.io/youtube/views/ePpMvL6kdvI?label=Tutorial++VPS++Mobile++&style=social)](https://youtu.be/ePpMvL6kdvI)
-
-----
-
-<h3 align="center">Deployment</h3>
 
   - Heroku: [Click Here](https://github.com/RiZoeLX/SpamX/blob/main/resources/heroku.md)
   - Mogenius: [Click Here](https://youtu.be/6XIjTbumJYY)
