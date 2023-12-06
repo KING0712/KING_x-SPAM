@@ -25,7 +25,7 @@ async def _info(SpamX: Client, e: Message):
      msg += f"**chodu ka Last Name:** {user.last_name} \n"
    msg += f"**Namune ki User ID:** `{user.id}` \n"
    if user.username:
-     msg += f"**Madarchod Username:** @{user.username} \n"
+     msg += f"**Madarchod ka Username:** @{user.username} \n"
    msg += f"**Permit link** [link](tg://user?id={user.id}) \n"
    if int(user.id) in Devs:
      msg += "**Rank:** Dev of SpamX-"
