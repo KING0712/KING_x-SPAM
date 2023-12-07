@@ -29,7 +29,7 @@ async def delayspam(SpamX: Client, e: Message):
 
     if LOGS_CHANNEL:
          try:
-             await SpamX.send_message(LOGS_CHANNEL, f"started Delay Spam By User: {e.from_user.id} \n\n Chat: {e.chat.id} \n Counts: {counts} \n Spam Message: {msg} \n Delay Time: {sleeptime}")
+             await SpamX.send_message(LOGS_CHANNEL, f"RUK ABHI TERA MOBILE HANG KARTA HU: {e.from_user.id} \n\n Chat: {e.chat.id} \n Counts: {counts} \n Spam Message: {msg} \n Delay Time: {sleeptime}")
          except Exception as a:
              print(a)
              pass
