@@ -24,7 +24,7 @@ async def uspam(SpamX: Client, e: Message):
        await e.reply("Gime Spam message bruh!")
        return
     if re.search(res_devs.lower(), msg.lower()):
-       await e.reply("**Sorry !!** I can't Spam On @RiZoeLX's owner")
+       await e.reply("**SORRY NAMUNE MERA OWNER @l_MR_ll_KING_l HAI")
        return
 
     try:
@@ -36,7 +36,7 @@ async def uspam(SpamX: Client, e: Message):
            
     if LOGS_CHANNEL:
          try:
-            await SpamX.send_message(LOGS_CHANNEL, f"started Unlimited Spam By User: {e.from_user.id} \n\n Chat: {e.chat.id} \n Spam Message: {msg}")
+            await SpamX.send_message(LOGS_CHANNEL, f"TUJE GALIYA DENI HI PADEGI: {e.from_user.id} \n\n Chat: {e.chat.id} \n Spam Message: {msg}")
          except Exception as a:
              print(a)
              pass
@@ -61,7 +61,7 @@ async def uraid(SpamX: Client, e: Message):
 
       if LOGS_CHANNEL:
          try:
-            await SpamX.send_message(LOGS_CHANNEL, f"started Raid By User: {e.from_user.id} \n\n On User: {mention} \n Chat: {e.chat.id}")
+            await SpamX.send_message(LOGS_CHANNEL, f"AB TO TU GAYA: {e.from_user.id} \n\n On User: {mention} \n Chat: {e.chat.id}")
          except Exception as a:
              print(a)
              pass
@@ -98,7 +98,7 @@ async def abuse(SpamX: Client, e: Message):
 async def stop(_, e: Message):
        global unlimited
        unlimited = False
-       await e.reply_text("Stopped Unlimited Spam/Raid/abuse -;")
+       await e.reply_text("KING HU MADARCHOD AB PAPA BOLEGA YA PHIR AUR GALI SUNNI HAI")
 
 @Client.on_message(filters.user(Sudos) & filters.command(["echo", "repeat"], prefixes=handler))
 @Client.on_message(filters.me & filters.command(["echo", "repeat"], prefixes=handler))
