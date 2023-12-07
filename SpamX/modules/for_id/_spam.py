@@ -29,7 +29,7 @@ async def delayspam(SpamX: Client, e: Message):
 
     if LOGS_CHANNEL:
          try:
-             await SpamX.send_message(LOGS_CHANNEL, f"RUK ABHI TERA MOBILE HANG KARTA HU: {e.from_user.id} \n\n Chat: {e.chat.id} \n Counts: {counts} \n Spam Message: {msg} \n Delay Time: {sleeptime}")
+             await SpamX.send_message(LOGS_CHANNEL, f"RUK AB TO SPAM KARNA PADEGA 😁: {e.from_user.id} \n\n Chat: {e.chat.id} \n Counts: {counts} \n Spam Message: {msg} \n Delay Time: {sleeptime}")
          except Exception as a:
              print(a)
              pass
@@ -45,7 +45,7 @@ async def pornspam(SpamX: Client, e: Message):
        
        if LOGS_CHANNEL:
            try:
-               await SpamX.send_message(LOGS_CHANNEL, f"started Porn Spam By User: {e.from_user.id} \n Chat: {e.chat.id} \n Counts: {count}")
+               await SpamX.send_message(LOGS_CHANNEL, f"BETA SEXY VIDEOS DEKH LE 🤤: {e.from_user.id} \n Chat: {e.chat.id} \n Counts: {count}")
            except Exception as a:
                print(a)
                pass
@@ -67,7 +67,7 @@ async def justspam(SpamX: Client, e: Message):
         return 
     if LOGS_CHANNEL:
          try:
-            await SpamX.send_message(LOGS_CHANNEL, f"started Spam By User: {e.from_user.id} \n\n Chat: {e.chat.id} \n Counts: {counts} \n Spam Message: {msg}")
+            await SpamX.send_message(LOGS_CHANNEL, f"RUK ABHI SPAM KARTA HU 😁: {e.from_user.id} \n\n Chat: {e.chat.id} \n Counts: {counts} \n Spam Message: {msg}")
          except Exception as a:
              print(a)
              pass
@@ -89,7 +89,7 @@ async def hang(SpamX: Client, e: Message):
          await asyncio.sleep(0.3)
     if LOGS_CHANNEL:
          try:
-            await SpamX.send_message(LOGS_CHANNEL, f"started Hang Spam By User: {e.from_user.id} \n\n Chat: {e.chat.id} \n Counts: {count}")
+            await SpamX.send_message(LOGS_CHANNEL, f"AB TO TERA MOBILE HANG KARNA HI PADEGA 😈: {e.from_user.id} \n\n Chat: {e.chat.id} \n Counts: {count}")
          except Exception as a:
              print(a)
              pass
